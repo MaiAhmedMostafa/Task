@@ -1,0 +1,43 @@
+.body {
+    height: 100%;
+    overflow: hidden;
+}
+
+.tabsContainer {
+    color: white;
+    background-image:linear-gradient(rgb(15, 80, 116), rgb(66, 145, 165));
+    padding-bottom: 120px;
+}
+
+.title {
+    text-align: center;
+    margin:46px auto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navContainer {
+    margin-left: 10px;
+}
+
+.tabIcon {
+    padding-right: 10px;
+}
+
+.tab {
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+.tabcontent {
+    color:white;
+}
+
+.tabcontent:hover {
+    color: rgb(15, 80, 116);
+}
+
+.contentContainer {
+    background-color: rgb(248,244,248);
+    overflow-y:auto; 
+}

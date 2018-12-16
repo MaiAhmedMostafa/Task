@@ -1,0 +1,32 @@
+.examsContainer {
+    margin:10px;
+    background-color: white;
+    padding:24px 30px;
+
+}
+.examsTitle {
+    font-size: 30px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+.intro {
+color: gray;
+padding: 5px 0 15px;
+}
+
+.quote {
+    color: #afabab;
+    padding: 5px 0;
+}
+
+.examsBtn {
+    font-size: 20px;
+    padding: 7px 34px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+
+.examsImg {
+    margin: -24px;
+}

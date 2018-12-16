@@ -1,0 +1,48 @@
+.titleContainer {
+    background-color: white;
+    padding: 15px;
+    color: rgb(100,108,108)
+}
+.title {
+    font-weight: bold;
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.searchContainer {
+    float: right;
+}
+
+.searchbar {
+    border: 1px solid rgb(190, 197, 197);
+    line-height: 15px;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 5px;
+    padding-right: 10px;
+    color:rgb(190, 197, 197);
+    
+}
+
+input {
+    border: none;
+    padding:0 5px;
+}
+
+.msgIcon {
+    font-size: 25px;
+    padding: 0 10px;
+    color: #2599b9;
+}
+
+.searchIcon {
+    font-size: 18px;
+    padding: 0 10px;
+    color: rgb(190, 197, 197);
+}
+
+.profilePic {
+    border-radius: 50%;
+    width:42px;
+    height:42px;
+  }

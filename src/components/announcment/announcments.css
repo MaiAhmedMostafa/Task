@@ -1,0 +1,38 @@
+.AnnouncContainer {
+    margin:10px;
+    background-color: white;
+}
+
+.AnnouncTitleContainer {
+    padding: 5px 13px;
+}
+
+.AnnouncTitle {
+    font-weight: bold;
+    font-size: 20px;
+    color: darkslategray;
+}
+
+.AnnouncDescr {
+    color: #afabab;
+}
+
+.AllAnnouncContainer {
+    padding: 10px 30px;
+}
+
+.AnnouncName {
+font-weight: bold;
+color: rgb(105, 103, 103)
+}
+
+.AnnouncSpec {
+    color: gray;
+}
+
+.Descrip {
+    color: gray;
+    border-left: 1px solid #afabab;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}

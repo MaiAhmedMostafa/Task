@@ -1,0 +1,19 @@
+.quizeName {
+    font-size: 18px;
+}
+.quizeName i {
+    color: #2599b9;
+    padding-right: 10px;
+}
+.quizContainer {
+    margin: 5px 5px 20px;
+}
+
+.quizeBtn {
+    color: blue;
+    border-color: blue;
+    margin: 10px;
+    width: 80%;
+    font-size: 18px;
+    border-radius: 9px;
+}

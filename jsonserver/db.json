@@ -1,0 +1,41 @@
+{
+    "fakeAnnouncmentService":[{
+        "id":1,
+        "name":"Mr.Ahmed Mostafa",
+        "speciality":"Math 101",
+        "Description":"Hi my heros! I just want you ready to our exams and focus on remaining assesments to gain more grades. good luck my warriors!"
+        
+    },{
+        "id":2,
+        "name":"Mrs.Salma Ahmed",
+        "speciality":"Physics 02",
+        "Description":"Hello my students, I want to announce that the next quiz will be within 3 days and will cover the whole unit2: Add and subtract number. Study hard Good Luck :)"        
+    },{
+        "id":3,
+        "name":"School management",
+        "speciality":"Management",
+        "Description":"Goooooooooood morning, Warriors! That get-ready-for-the-day call is heard each morning by 850 students at Goodwyn Junior High School in Tagamoo',Egypt. I just want you ready to our exams and focus on remaining assesments to gain more grades. good luck my warriors!"        
+    },{
+        "id":4,
+        "name":"Events Manager",
+        "speciality":"Events",
+        "Description":"Helloooo, Can't wait our upcoming trip on the next weekend, The trip will be to Dreampark and Pyramids :D to book your seat please contact your class teacher."        
+    }
+    ],
+    "fakeQuizesService":[{
+        "id":1,
+        "Name":"Unit 2 quiz",
+        "course":"Physics 02",
+        "Topic":"Unit2: Motion and forces",
+        "DueTo":"20 Dec 2017 - 09:00 PM",
+        "Type":1     //1 for quizs & 2 for assignments
+    },{
+        "id":2,
+        "Name":"12 - 12 Assignment",
+        "course":"Arabic K12",
+        "Topic":"الوحدة الثانية - الأفعال",
+        "DueTo":"20 Dec 2017 - 09:00 PM",
+        "Type":2
+    }
+    ]
+}
